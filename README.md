@@ -1,2 +1,4 @@
-# Python_Game_Chess_MiniMax
- this project took me around 200 hours and allowed me to learn about machine learning, MVC, Tkinter and much more
+# Chess_MiniMax
+ Simulates game against chess AI based on the mini-max algorithm.
+ Option to play against different levels of the AI (Easy, Medium, Hard).
+ Usage of the alpha-beta pruning model.
